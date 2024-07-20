@@ -72,11 +72,23 @@ I've got a background as an Electrical Project Engineer, but I'm making the shif
          alt="GitHub Streak Stats" 
          style="width: 410px; height: 200px; object-fit: cover; border: none;" />
   </a>
+</div>
 
+<div>
   <a href="https://github.com/prechak" align="left" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prechak&layout=compact&theme=tokyonight" 
          alt="Top Languages" 
-         style="width: 350px; height: 200px; object-fit: cover; border: none;" />
+         style="width: 410px; height: 200px; object-fit: cover; border: none;" />
   </a>
 </div>
+
+<div>
+  <a href="https://github.com/prechak">
+      <img src="https://github-readme-stats.vercel.app/api?username=prechak&layout=compact&theme=tokyonight" 
+           alt="GitHub Stats" 
+           style="width: 410px; height: 200px; object-fit: cover; border: none;" />
+    </a>
+</div>
 </details>
+
+![](https://komarev.com/ghpvc/?username=prechak&color=ff69b4)
