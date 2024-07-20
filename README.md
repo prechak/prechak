@@ -2,9 +2,17 @@
 
 
 Hi, I'm Tao! 
-<p align="center">
-  <img src="https://media.tenor.com/Af4QqL6jm5EAAAAj/kngf-assistentiehond.gif"/>
-</p>
+
+<details open>
+  <summary>Click to eliminate this dog (but you're too mean!)</summary>
+  <p align="center">
+    <img src="https://media.tenor.com/Af4QqL6jm5EAAAAj/kngf-assistentiehond.gif" width="300"/>
+  </p>
+</details>
+
+
+
+
 I've got a background as an Electrical Project Engineer, but I'm making the shift to Full-Stack Development. I've managed some pretty complex projects, worked closely with teams, and always aim to deliver top-notch results. I'm excited to dive into software projects, learn new things, and contribute wherever I can. Let’s build something awesome! 🚀
 
 
