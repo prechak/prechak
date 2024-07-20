@@ -1,6 +1,6 @@
 ## Hey There! 👋
 
-Hi, I'm Tao! I've got a background as a Project Engineer, but I'm making the shift to Full-Stack Development. I've managed some pretty complex projects, worked closely with teams, and always aim to deliver top-notch results. I'm excited to dive into software projects, learn new things, and contribute wherever I can.
+Hi, I'm Tao! I've got a background as an Electrical Project Engineer, but I'm making the shift to Full-Stack Development. I've managed some pretty complex projects, worked closely with teams, and always aim to deliver top-notch results. I'm excited to dive into software projects, learn new things, and contribute wherever I can. Let’s build something awesome! 🚀
 
 ### CORE
 [![My Skills](https://skillicons.dev/icons?i=c,java,js,ts)](https://skillicons.dev)
