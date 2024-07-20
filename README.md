@@ -1,6 +1,12 @@
-## Hey There! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />
+## Hey There! 👋
 
-Hi, I'm Tao! I've got a background as an Electrical Project Engineer, but I'm making the shift to Full-Stack Development. I've managed some pretty complex projects, worked closely with teams, and always aim to deliver top-notch results. I'm excited to dive into software projects, learn new things, and contribute wherever I can. Let’s build something awesome! 🚀
+
+Hi, I'm Tao! 
+<p align="center">
+  <img src="https://media.tenor.com/Af4QqL6jm5EAAAAj/kngf-assistentiehond.gif"/>
+</p>
+I've got a background as an Electrical Project Engineer, but I'm making the shift to Full-Stack Development. I've managed some pretty complex projects, worked closely with teams, and always aim to deliver top-notch results. I'm excited to dive into software projects, learn new things, and contribute wherever I can. Let’s build something awesome! 🚀
+
 
 ### CORE
 [![My Skills](https://skillicons.dev/icons?i=c,java,js,ts)](https://skillicons.dev)
