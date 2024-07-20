@@ -17,16 +17,52 @@ I've got a background as an Electrical Project Engineer, but I'm making the shif
 
 
 ### CORE
-[![My Skills](https://skillicons.dev/icons?i=c,java,js,ts)](https://skillicons.dev)
+
+<details open>
+  <summary>Click to see my skills</summary>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,java,js,ts" alt="My Skills"/>
+    </a>
+  </p>
+</details>
+
 
 ### FRONT-END
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,react,vite,nextjs)](https://skillicons.dev)
+
+<details open>
+  <summary>Click to see my front-end skills</summary>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,react,vite,nextjs" alt="My Front-End Skills"/>
+    </a>
+  </p>
+</details>
+
 
 ### BACK-END
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,supabase,postgres,mysql,mongodb,postman)](https://skillicons.dev)
+
+<details open>
+  <summary>Click to see my back-end skills</summary>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,supabase,postgres,mysql,mongodb,postman" alt="My Back-End Skills"/>
+    </a>
+  </p>
+</details>
+
 
 ### OTHER
-[![My Skills](https://skillicons.dev/icons?i=apple,linux,vscode,vim,git,github,figma)](https://skillicons.dev)
+
+<details open>
+  <summary>Click to see my other skills</summary>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=apple,linux,vscode,vim,git,github,figma" alt="My Other Skills"/>
+    </a>
+  </p>
+</details>
+
 
 <details>
   <summary>GitHub Status ✨</summary>
