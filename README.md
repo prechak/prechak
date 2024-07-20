@@ -19,8 +19,8 @@ I've got a background as an Electrical Project Engineer, but I'm making the shif
 ### CORE
 
 <details open>
-  <summary>Click to see my skills</summary>
-  <p align="center">
+  <summary>Click to see my core skills</summary>
+  <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,java,js,ts" alt="My Skills"/>
     </a>
@@ -32,7 +32,7 @@ I've got a background as an Electrical Project Engineer, but I'm making the shif
 
 <details open>
   <summary>Click to see my front-end skills</summary>
-  <p align="center">
+  <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,react,vite,nextjs" alt="My Front-End Skills"/>
     </a>
@@ -44,7 +44,7 @@ I've got a background as an Electrical Project Engineer, but I'm making the shif
 
 <details open>
   <summary>Click to see my back-end skills</summary>
-  <p align="center">
+  <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,supabase,postgres,mysql,mongodb,postman" alt="My Back-End Skills"/>
     </a>
@@ -56,7 +56,7 @@ I've got a background as an Electrical Project Engineer, but I'm making the shif
 
 <details open>
   <summary>Click to see my other skills</summary>
-  <p align="center">
+  <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=apple,linux,vscode,vim,git,github,figma" alt="My Other Skills"/>
     </a>
