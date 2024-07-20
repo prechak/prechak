@@ -20,17 +20,13 @@ Hi, I'm Tao! I've got a background as a Project Engineer, but I'm making the shi
   <a href="http://www.github.com/prechak">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=prechak&theme=tokyonight&background=000000(https://git.io/streak-stats)" 
          alt="GitHub Streak Stats" 
-         style="width: 350px; height: 200px; object-fit: cover; border: none;" />
+         style="width: 470px; height: 200px; object-fit: cover; border: none;" />
   </a>
 
   <a href="https://github.com/prechak" align="left" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prechak&layout=compact&theme=tokyonight" 
          alt="Top Languages" 
-         style="width: 300px; height: 200px; object-fit: cover; border: none;" />
+         style="width: 400px; height: 200px; object-fit: cover; border: none;" />
   </a>
-
-  
 </div>
 </details>
-
-
