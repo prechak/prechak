@@ -92,6 +92,6 @@ I've got a background as an Electrical Project Engineer, but I'm making the shif
 </details>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=prechak&color=ff69b4" alt="Page Views"/>
+  <img src="https://komarev.com/ghpvc/?username=precha&color=ff69b4" alt="Page Views"/>
 </p>
 
