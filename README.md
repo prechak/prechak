@@ -90,8 +90,8 @@ I've got a background as an Electrical Project Engineer, but I'm making the shif
     </a>
 </div>
 </details>
-
+<!--
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=prechak&color=ff69b4" alt="Page Views"/>
 </p>
-
+-->
