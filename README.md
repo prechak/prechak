@@ -46,7 +46,7 @@ I've got a background as an Electrical Project Engineer, but I'm making the shif
   <summary>Click to see my back-end skills</summary>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,supabase,postgres,mysql,mongodb,postman" alt="My Back-End Skills"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,supabase,postgres,mysql,mongodb,graphql,postman" alt="My Back-End Skills"/>
     </a>
   </p>
 </details>
@@ -58,7 +58,7 @@ I've got a background as an Electrical Project Engineer, but I'm making the shif
   <summary>Click to see my other skills</summary>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=apple,linux,vscode,vim,git,github,figma" alt="My Other Skills"/>
+      <img src="https://skillicons.dev/icons?i=apple,linux,vscode,vim,git,github,figma,vercel" alt="My Other Skills"/>
     </a>
   </p>
 </details>
